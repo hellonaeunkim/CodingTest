@@ -11,8 +11,10 @@ class Solution {
 
 /*
 If the parameters num1 and num2 are within the range of -50000 to 50000, the code returns the sum of the two numbers. If they fall outside this range, it returns 0
-*/
 
 ## Link
+- [Programmers Coding Test]
+(https://school.programmers.co.kr/learn/courses/30/lessons/120802)
 
-- [Programmers Coding Test](https://school.programmers.co.kr/learn/courses/30/lessons/120802)
+*/
+
